@@ -1,5 +1,5 @@
 # google_playstore_eda
-Exploratory Data Analysis (EDA) and visualization on Google Playstore Apps using SQL and Power BI
+A comprehensive Power BI dashboard analyzing over 9,000 apps from Google Play Store. 
 
 ## Key Questions Answered:
 
