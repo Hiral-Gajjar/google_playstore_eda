@@ -92,13 +92,14 @@ Exploratory Data Analysis (EDA) and visualization on Google Playstore Apps using
 📌Apps priced above $5 see drastically fewer installs - stay below this threshold to maximize reach.
 
 ## Strategies to implement:
- **~ Freemium apps:**    Prioritize free apps, with in-app purchases for maximum reach and user engagement. 
 
- **~ Family-focused Content:**   Focus on family & inclusive categories to capture broader audiences. 
+ **Freemium apps:**    Prioritize free apps, with in-app purchases for maximum reach and user engagement. 
 
- **~ Pricing Strategy:** Keep pricing below $5 unless offering high-value features. 
+ **Family-focused Content:**   Focus on family & inclusive categories to capture broader audiences. 
 
-**~ Future launch:** Historical install surges can be used for future launches of apps for market spikes. 
+ **Pricing Strategy:** Keep pricing below $5 unless offering high-value features. 
+
+**Future launch:** Historical install surges can be used for future launches of apps for market spikes. 
 
 
 ## Access the Dashboard
